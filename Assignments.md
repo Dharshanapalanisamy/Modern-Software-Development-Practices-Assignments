@@ -30,10 +30,9 @@
 
 ### Team Project: AI Full Stack Application
 
-> **GitHub Repo URL:** *(Kindly submit the GitHub Repo URL)*
+> **GitHub Repo URL:** https://github.com/Surya-074/one-credit-course/tree/team
 
 > **Live Application URL (Domain):** https://ledger-daily-tracker.vercel.app/
-
 
 > **GitHub Pages (Documentation) URL:** *(Kindly submit the GitHub Pages (Documentation) URL)*
 
