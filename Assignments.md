@@ -1,7 +1,5 @@
 # Assignment Submissions
 
----
-
 ## 1 Certification Requirement
 
 ### AI Fluency for Students
@@ -9,8 +7,6 @@
 
 ### Introduction to Agent Skills
 > Verification Link: http://verify.skilljar.com/c/uu5hjw4wr3jk
-
-> Certifications PDF (Google Drive): *(Kindly upload the certifications PDF in Google Drive Link)*
 
 ---
 
@@ -39,8 +35,5 @@
 ---
 
 ## 4 LinkedIn Post
-
 > **LinkedIn Post URL:** https://www.linkedin.com/posts/darshana-p-s-2410b8292_softwaredevelopment-moderndevelopment-learningjourney-ugcPost-7444606998035374080-jVGr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbZklEBNi99v3zK5pjpcewDDnlI2RHpo2Q
-
 ---
-
