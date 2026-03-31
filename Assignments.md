@@ -40,24 +40,7 @@
 
 ## 4 LinkedIn Post
 
-> **LinkedIn Post URL:** *(Submit the LinkedIn post URL)*
+> **LinkedIn Post URL:** https://www.linkedin.com/posts/darshana-p-s-2410b8292_softwaredevelopment-moderndevelopment-learningjourney-ugcPost-7444606998035374080-jVGr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbZklEBNi99v3zK5pjpcewDDnlI2RHpo2Q
 
 ---
 
-## For Second Year Buddies
-
----
-
-## 5 Certification Requirement
-
-### Introduction to Model Context Protocol
-
-> **Verification Link:** *(Kindly submit the verification link here)*
-
-> **Certifications PDF (Google Drive):** *(Kindly upload the certifications PDF in Google Drive Link)*
-
----
-
-## 6 GitHub Profile README
-
-> **GitHub Profile README URL:** *(Kindly submit your GitHub Profile README URL)*
