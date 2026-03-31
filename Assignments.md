@@ -34,7 +34,7 @@
 
 > **Live Application URL (Domain):** https://ledger-daily-tracker.vercel.app/
 
-> **GitHub Pages (Documentation) URL:** *(Kindly submit the GitHub Pages (Documentation) URL)*
+> **GitHub Pages (Documentation) URL:** https://pavithran030.github.io/AIML-one-credit/
 
 ---
 
